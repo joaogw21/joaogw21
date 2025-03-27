@@ -1,8 +1,14 @@
-## Hi there 👋
+## Bem Vindos a Minha Pagina 👋
 
 **Estudante de programação em busca de oportunidades para aprender e crescer profissionalmente. Possuo experiência em diferentes áreas de trabalho e estou sempre aberto a novos desafios.**
 
 - Busco oportunidades de crescimento! 
+
+
+📞 (51) 98930-9847
+📧 joaogabrielweinmann@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-gabriel-weinmann-70824126b/)  
+
 <!--
 **joaogw21/joaogw21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
