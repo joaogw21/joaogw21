@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+**Estudante de programação em busca de oportunidades para aprender e crescer profissionalmente. Possuo experiência em diferentes áreas de trabalho e estou sempre aberto a novos desafios.**
+
+- Busco oportunidades de crescimento! 
 <!--
 **joaogw21/joaogw21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
